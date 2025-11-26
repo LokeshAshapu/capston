@@ -1,32 +1,18 @@
-streamlit==1.28.1
-streamlit-option-menu==0.3.6
-
-# PDF / DOC handling
-pdfplumber==0.10.3
-python-docx==0.8.11
-
-# Core ML / math
-numpy==1.24.3
-pandas==2.0.3
-scikit-learn==1.3.2
-sentence-transformers==2.2.2
-rapidfuzz==3.5.2
-
-# ⚠️ Removed: causes build issues on Streamlit Cloud
-# hdbscan==0.8.30
-
-# Plotting
-plotly==5.17.0
-
-# Config / APIs / DB
-python-dotenv==1.0.0
-openai==1.3.9
-google-generativeai==0.3.0
-anthropic                # was ==0.7.10, let pip choose a compatible one
-requests==2.31.0
-sqlalchemy==2.0.23
-supabase==2.0.0
-python-multipart==0.0.6
-
-# Dev-only (optional; you can remove to speed up install)
-# pytest==7.4.3
+streamlit
+streamlit-option-menu
+pdfplumber
+python-docx
+numpy
+pandas
+scikit-learn
+sentence-transformers
+rapidfuzz
+plotly
+python-dotenv
+openai
+google-generativeai
+anthropic
+requests
+sqlalchemy
+supabase
+python-multipart
