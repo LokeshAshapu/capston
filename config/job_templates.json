@@ -1,0 +1,101 @@
+{
+  "software_engineer": {
+    "title": "Software Engineer",
+    "description": "Backend/Full-stack software development role",
+    "required_skills": [
+      "Python",
+      "Java",
+      "JavaScript",
+      "SQL",
+      "RESTful APIs",
+      "Git",
+      "Docker",
+      "AWS",
+      "Unit Testing",
+      "System Design",
+      "Agile",
+      "Linux"
+    ],
+    "nice_to_have": [
+      "Kubernetes",
+      "Microservices",
+      "GraphQL",
+      "CI/CD",
+      "Machine Learning Basics"
+    ]
+  },
+  "data_scientist": {
+    "title": "Data Scientist",
+    "description": "Analytics, ML model development, and data insights",
+    "required_skills": [
+      "Python",
+      "Pandas",
+      "NumPy",
+      "Scikit-Learn",
+      "SQL",
+      "Data Visualization",
+      "Statistics",
+      "Machine Learning",
+      "Jupyter Notebook",
+      "TensorFlow or PyTorch",
+      "Git",
+      "Communication Skills"
+    ],
+    "nice_to_have": [
+      "Deep Learning",
+      "NLP",
+      "Big Data (Spark)",
+      "AWS/GCP",
+      "MLOps",
+      "Feature Engineering"
+    ]
+  },
+  "product_manager": {
+    "title": "Product Manager",
+    "description": "Product strategy, roadmap, and cross-functional leadership",
+    "required_skills": [
+      "Product Strategy",
+      "User Research",
+      "Data Analysis",
+      "Communication",
+      "Leadership",
+      "Roadmap Planning",
+      "Market Analysis",
+      "Stakeholder Management",
+      "User Stories",
+      "Metrics & KPIs",
+      "Problem Solving"
+    ],
+    "nice_to_have": [
+      "SQL",
+      "A/B Testing",
+      "Agile/Scrum",
+      "Technical Acumen",
+      "Design Thinking"
+    ]
+  },
+  "devops_engineer": {
+    "title": "DevOps Engineer",
+    "description": "Infrastructure, CI/CD, and deployment automation",
+    "required_skills": [
+      "Linux",
+      "Docker",
+      "Kubernetes",
+      "CI/CD Pipelines",
+      "Git",
+      "Cloud Platforms (AWS/GCP/Azure)",
+      "Infrastructure as Code",
+      "Bash Scripting",
+      "Monitoring & Logging",
+      "Networking Basics",
+      "Python or Go"
+    ],
+    "nice_to_have": [
+      "Terraform",
+      "Jenkins",
+      "GitLab CI",
+      "Ansible",
+      "Security Best Practices"
+    ]
+  }
+}
